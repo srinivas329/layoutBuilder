@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.layout-bg {
+  background-color: white;
+  background-size: cover;
+  height: 75vh;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+}
+.ul-list {
+  padding: 0px;
+  color: #64748b;
+}
+.right-bg {
+  background-color: #e2e8f0;
+  background-size: cover;
+  height: 45vh;
+  width: 30%;
+  padding: 15px;
+}
+.left-bg {
+  background-color: #e2e8f0;
+  background-size: cover;
+  height: 45vh;
+  width: 30%;
+  padding: 15px;
+}
+.left-heading {
+  color: #475569;
+  font-weight: 500;
+  font-size: 18px;
+}
+.content-bg {
+  background-color: #f1f5f9;
+  background-size: cover;
+  height: 45vh;
+  width: 40%;
+  padding: 15px;
+}
+.add-bg {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #475569;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+.body-card-bg {
+  display: flex;
+  justify-content: space-between;
+}

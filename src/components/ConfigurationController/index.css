@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.check-bg {
+  background-color: #475569;
+  background-size: cover;
+  height: 25vh;
+  padding: 20px;
+}
+.layout-text {
+  margin: 0px;
+  color: white;
+}
+.options-tab {
+  margin-top: 10px;
+  color: white;
+}

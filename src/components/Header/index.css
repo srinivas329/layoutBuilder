@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.header-bg {
+  background-color: #cbd5e1;
+  background-size: contain;
+  text-align: center;
+  height: 15vh;
+}
+.header {
+  color: #475569;
+  margin: 0px;
+}
